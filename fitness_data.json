@@ -1,0 +1,13 @@
+{
+    "Rb@123": {
+        "password": "rb123",
+        "activities": [
+            {
+                "date": "2025-03-19",
+                "activity": "skipping",
+                "duration": 10,
+                "calories": 80
+            }
+        ]
+    }
+}
